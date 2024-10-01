@@ -6,3 +6,7 @@ body {
 h1 {
   color: #bd3806;
 }
+.question {
+  display: flex;
+  flex: row;
+}
